@@ -1,1 +1,3 @@
-# transfer-learning-and-fine-tuning
+# Transfer Learning e Fine-tuning
+
+Transfer Learning e Fine-tuning são usados indistintamente e são definidos como o processo de treinamento de uma rede neural em novos dados, mas inicializando-a com pesos pré-treinados obtidos do treinamento em um conjunto de dados diferente, principalmente muito maior, para uma nova tarefa que é algo relacionado aos dados e às tarefas em que a rede foi treinada anteriormente. Na aprendizagem por transferência, geralmente as últimas camadas da rede são substituídas por novas camadas e inicializadas com pesos aleatórios, as camadas inalteradas podem ser congeladas, isto é, tornadas não treináveis ​​ou mantidas treináveis.
